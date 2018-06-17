@@ -1,6 +1,6 @@
 .container{
  
-  margin-top: 130px;
+  margin-top: 122px!important;
   
  
 }
@@ -15,16 +15,20 @@ img{
 
 
 .text{
- display: block;
-  margin: auto;
-  margin-top: 24px;
-  width: 200px;
-  height: 30px;
-  padding; 10px;
+
+  margin: auto!important;
+  margin-top: 31px;
+  width: 300px!important;
+  height: 40px;
+  color: rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  border: solid!important;
+  
 }
+
 .button{
   
-  margin-top: 10px;
+  margin-top: 25px;
   width: 150px;
   height: 30px;
   background: linear-gradient(#f5f5f5,#f1f1f1);
